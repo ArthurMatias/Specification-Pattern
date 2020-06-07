@@ -2,18 +2,18 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("BuildingBlock.Specification.Tests")]
+[assembly: AssemblyTitle("BuildingBlock.Specification.UnitTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("BuildingBlock.Specification.Tests")]
+[assembly: AssemblyProduct("BuildingBlock.Specification.UnitTests")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("4327a992-43af-4301-96ef-1071a3aaa645")]
+[assembly: Guid("bab0d45d-6e99-4f49-a50d-a5789aca1014")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
